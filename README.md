@@ -4,6 +4,6 @@
   <p>A Discord bot for DestroyPorn Official Server.</p>
 </p>
 
-## Why?
+## Why? 🤔
 - To make autoresponders for people asking about common/typical questions.
 - Server moderation.
